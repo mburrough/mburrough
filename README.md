@@ -3,7 +3,7 @@
 **Principal Purple Team Lead at Microsoft**: I design and run adversary-emulation
 campaigns against the Microsoft Defender and Sentinel stack, turning real attacker
 tradecraft into stronger detections. Previously Principal Red Team Manager (internal
-+ Federal red teams, which I stood up from scratch) and senior penetration tester.
+and Federal red teams, as a founding member) and senior penetration tester.
 
 - 🔴 Red teaming · 🟣 purple teaming · penetration testing · detection engineering · cloud/Azure security
 - 📚 Two-time No Starch Press author: *Pentesting Azure Applications* & *Locksport*
