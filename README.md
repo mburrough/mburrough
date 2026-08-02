@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Matt Burrough 👋
 
-<!--
-**mburrough/mburrough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Principal Purple Team Lead at Microsoft**: I design and run adversary-emulation
+campaigns against the Microsoft Defender and Sentinel stack, turning real attacker
+tradecraft into stronger detections. Previously Principal Red Team Manager (internal
++ Federal red teams, which I stood up from scratch) and senior penetration tester.
 
-Here are some ideas to get you started:
+- 🔴 Red teaming · 🟣 purple teaming · penetration testing · detection engineering · cloud/Azure security
+- 📚 Two-time No Starch Press author: *Pentesting Azure Applications* & *Locksport*
+- 🛠️ Contributor to the MITRE ATT&CK framework; named inventor on multiple patents
+- 🎤 Speaker at DEF CON, BlueHat, and the SANS Cloud Security Summit
+- 🤖 Currently exploring generative AI / LLMs for attacker simulation and detection
+- 🔐 Competitive lockpicker & impressioner; co-organizer, Seattle Locksport
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📕 Books
+- **Pentesting Azure Applications** (No Starch, 2018). [Scripts](https://github.com/mburrough/pentestingazureapps)
+- **Locksport: A Hacker's Guide to Lock Picking, Impressioning, & Safe Cracking** (No Starch, 2024)
+
+### 🔗 Find me
+- Blog: https://burrough.org
+- LinkedIn: https://www.linkedin.com/in/mburrough/
+- Mastodon: https://infosec.exchange/@mb
+- Bluesky: https://bsky.app/profile/mattburrough.bsky.social
+
+*Certifications: CISM, GXPN, GCPN, GPEN, GWAPT, OSCP, eCRE, CCSK, MCT.*
+*Projects here are my own and not affiliated with my employer.*
