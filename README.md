@@ -1,9 +1,7 @@
 # Hi, I'm Matt Burrough 👋
 
-**Principal Purple Team Lead at Microsoft**: I design and run adversary-emulation
-campaigns against the Microsoft Defender and Sentinel stack, turning real attacker
-tradecraft into stronger detections. Previously Principal Red Team Manager (internal
-and Federal red teams, as a founding member) and senior penetration tester.
+**Senior Manager of Purple Teaming**: I design and run adversary-emulation
+campaigns, turning real attacker tradecraft into stronger detections. 
 
 - 🔴 Red teaming · 🟣 purple teaming · penetration testing · detection engineering · cloud/Azure security
 - 📚 Two-time No Starch Press author: *Pentesting Azure Applications* & *Locksport*
