@@ -22,5 +22,4 @@ and Federal red teams, as a founding member) and senior penetration tester.
 - Mastodon: https://infosec.exchange/@mb
 - Bluesky: https://bsky.app/profile/mattburrough.bsky.social
 
-*Certifications: CISM, GXPN, GCPN, GPEN, GWAPT, OSCP, eCRE, CCSK, MCT.*
 *Projects here are my own and not affiliated with my employer.*
